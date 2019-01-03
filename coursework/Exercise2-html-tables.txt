@@ -1,0 +1,58 @@
+Introduction to HTML Tables: You will be creating your first HTML table!
+
+1. In the folder you created previously "dev/exercises/html", create a new file called: html-table.html
+
+2. Start with your standard HTML template
+
+3. Make the header title of this page: HTML Table madness
+
+4. In the body of the table include this h1 header: Fun with Tables!
+
+5. Include the following tag to create a new table:
+
+    <table></table>
+
+6. We are going to create a 2 x 5 grid using a table. Include following structure inside the <table> tag:
+
+    <tr>
+      <td>HTML</td>
+      <td>Java</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>Node</td>
+    </tr>
+    <tr>
+      <td>Javascript</td>
+      <td>.NET</td>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td>Python</td>
+    </tr>      
+    <tr>
+      <td>Angular</td>
+      <td>Ruby</td>
+    </tr>
+
+7. Add the following attribute to the <table> tag: border=1
+
+8. Change the value of the border attribute to 5. Notice the difference
+
+9. Change the border value back to 1. Include the following as the FIRST row in the table:
+
+    <tr>
+      <th>Front End</th>
+      <th>Back End</th>
+    </tr>
+
+10. Include the following attributes inside the table tag, note the visual difference after each:
+
+    cellpadding="25"
+    cellspacing="5"
+
+11. Add the following attribute to the table tag: width="300px"
+
+12. Change the width attribute value to "100%". Widen the width of the browser and notice what happens.
+
+13. 

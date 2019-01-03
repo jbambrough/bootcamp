@@ -1,0 +1,59 @@
+Introduction to HTML: You will be creating your first HTML page!
+
+1. Create a folder structure off your root as follows: "dev/exercises/html"
+
+2. Create a file named "mysite.html"
+
+3. Open mysite.html in a text editor. At the top of the file include the following:
+
+  <!DOCTYPE html>
+
+4. Underneath that, include an opening and closing "html" tag like this:
+
+  <html></html>
+
+5. Inside the html tag you just created include an opening and closing "head" tag like this:
+
+  <head></head>
+
+6. After the head tag, include a "body" tag like this:
+
+  <body></body>
+
+7. Inside the body tag, include an h1 tag with the folowing: <h1>Here are some lists</h1>
+
+8. After your name header, include an unordered list by using the this tag: <ul></ul>
+
+9. Inside the ul tag we now want to include list items by nesting the following:
+
+  <ul>Learn HTML</ul>
+  <ul>Learn CSS</ul>
+  <ul>Learn Javascript</ul>
+
+10. Copy the unordered list you just made and paste it directly after the original list. 
+    Change the <ul> tags to <ol>. How does this list differ from the <ul> ?
+
+11. After the lists that you just created include a horizontal rule: <hr>
+
+12. After the <hr> include a sub header as such: <h3>Here is some additional text</h3>
+
+13. After the h3 tag you just created, include the following comment:
+
+  <!-- here are some different text options in this section -->
+
+14. Include the following in a paragraph tag as such:
+
+  <p>
+    I am learning my first HTML! First, we will learn Hypertext Markup Language, or HTML, then
+    we will learn Cascading Style Sheets, or CSS for short. Then we will spend a fair amount of
+    time learning Javascript. These three all make up Front-End programming.
+  </p>
+
+15. Inside the paragraph you just created, emphasize the words "HTML" and "CSS" by embedding those
+    in the <b> and <i> tags respectively.
+
+16. Include another <hr> tag after your paragraph
+
+17. After the <hr> include another sub header as such: <h3>Here are some awesome links</h3>
+
+18. <a href="http://www.google.com">Google</a> <a href="https://developer.mozilla.org">MDN Web Docs</a> <a href="https://stackoverflow.com">Stack Overflow</a> 
